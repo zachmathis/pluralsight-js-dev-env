@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# git ignore files
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.pluralsight-js-dev-env.iml
+
+
